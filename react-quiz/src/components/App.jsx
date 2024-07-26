@@ -1,6 +1,7 @@
-import { useEffect, useReducer } from "react"
-import Header from "./Header"
-import MainDiv from "./MainDiv"
+import { useEffect, useReducer } from "react";
+
+import Header from "./Header";
+import MainDiv from "./MainDiv";
 import Loader from "./Loader";
 import Error from "./Error";
 import StarterScreen from "./StarterScreen";
